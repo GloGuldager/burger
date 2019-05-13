@@ -17,5 +17,13 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 
 ## Link to Deployed Site
 
+* Git Hub
+https://github.com/GloGuldager/burger
+
+* Portfolio
 https://gloguldager.github.io/burger/
+
+* Heroku
+https://frozen-island-24675.herokuapp.com/
+
 
