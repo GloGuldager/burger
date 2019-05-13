@@ -17,4 +17,5 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 
 ## Link to Deployed Site
 
-(https://gloguldager.github.io/bamazon/
+https://gloguldager.github.io/burger/
+
